@@ -4,6 +4,7 @@
 
 ![ORC 2026](https://img.shields.io/badge/ORC_2026-Compétition_Officielle-ef4444?style=for-the-badge)
 ![Équipe #5](https://img.shields.io/badge/Équipe-%235-ef4444?style=for-the-badge)
+![EGEI](https://img.shields.io/badge/EGEI-ef4444?style=for-the-badge)
 ![UCAO-UUC](https://img.shields.io/badge/UCAO--UUC-Bénin-0057A8?style=for-the-badge)
 
 > **« L'audace numérique au service du futur. »**
