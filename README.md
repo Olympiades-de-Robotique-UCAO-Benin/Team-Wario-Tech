@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ORC 2026](https://img.shields.io/badge/ORC_2026-Compétition_Officielle-ef4444?style=for-the-badge)
+![ORC 2026](https://img.shields.io/badge/ORU_2026-Compétition_Officielle-ef4444?style=for-the-badge)
 ![Équipe #5](https://img.shields.io/badge/Équipe-%235-ef4444?style=for-the-badge)
 ![EGEI](https://img.shields.io/badge/EGEI-ef4444?style=for-the-badge)
 ![UCAO-UUC](https://img.shields.io/badge/UCAO--UUC-Bénin-0057A8?style=for-the-badge)
@@ -28,7 +28,7 @@
 
 ## 📚 Ressources utiles
 
-- 📖 [Guide Technique Officiel ORC 2026](https://github.com/Olympiades-de-Robotique-UCAO-Benin/guide-technique-officiel)
+- 📖 [Guide Technique Officiel ORU 2026](https://github.com/Olympiades-de-Robotique-UCAO-Benin/guide-technique-officiel)
 - 🧠 [Ressources de formation](https://github.com/Olympiades-de-Robotique-UCAO-Benin/ressources-formations)
 - 🌐 [Site officiel de la compétition](https://olympiades-de-robotique-ucao-benin.github.io)
 - 🏠 [Organisation GitHub ORU](https://github.com/Olympiades-de-Robotique-UCAO-Benin)
