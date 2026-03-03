@@ -15,7 +15,7 @@
 
 ## 🏫 Présentation
 
-**Team Wario Tech** est l'une des 6 équipes participantes à l'**Olympiade de Robotique UCAO 2026 (ORC 2026)**, compétition inter-facultés organisée à l'Université Catholique de l'Afrique de l'Ouest — Unité Universitaire du Bénin.
+**Team Wario Tech** est l'une des 6 équipes participantes à l'**Olympiade de Robotique UCAO 2026 (ORU 2026)**, compétition inter-facultés organisée à l'Université Catholique de l'Afrique de l'Ouest — Unité Universitaire du Bénin.
 
 | Informations | Détails |
 |---|---|
@@ -31,7 +31,7 @@
 - 📖 [Guide Technique Officiel ORC 2026](https://github.com/Olympiades-de-Robotique-UCAO-Benin/guide-technique-officiel)
 - 🧠 [Ressources de formation](https://github.com/Olympiades-de-Robotique-UCAO-Benin/ressources-formations)
 - 🌐 [Site officiel de la compétition](https://olympiades-de-robotique-ucao-benin.github.io)
-- 🏠 [Organisation GitHub ORC](https://github.com/Olympiades-de-Robotique-UCAO-Benin)
+- 🏠 [Organisation GitHub ORU](https://github.com/Olympiades-de-Robotique-UCAO-Benin)
 
 ---
 
@@ -44,6 +44,6 @@ Pour toute question concernant la compétition :
 
 <div align="center">
 
-*ORC 2026 — Olympiade de Robotique UCAO-UUC Bénin*
+*ORU 2026 — Olympiade de Robotique UCAO-UUC Bénin*
 
 </div>
